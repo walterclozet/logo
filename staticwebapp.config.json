@@ -1,0 +1,10 @@
+{
+  "mimeTypes": {
+    ".svg": "image/svg+xml",
+    ".svgz": "image/svg+xml"
+  },
+  "globalHeaders": {
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, max-age=3600"
+  }
+}
